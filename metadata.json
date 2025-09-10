@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Ponsonby Prints Status Tracker",
+  "description": "A modern, minimalist web application to track the status of print orders from a Google Sheet.",
+  "requestFramePermissions": []
+}
